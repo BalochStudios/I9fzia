@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">I9fzia</string>
+    <string name="no_location_detected">No Location Detected</string>
+    <string name="settings">Go to Settings</string>
+    <string name="permission_denied_explanation">You have to allow permissions to use this app from settings</string>
+    <string name="permission_rationale">To get Location, we need your permissions</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="get_lat_lng">Get Lat Lng</string>
+    <string name="empty_edittext_message">Kindly enter some location</string>
+    <string name="not_found_lat_lng_message">Can not found the latlng. Please try different location</string>
+    <string name="go_to_maps">Go to Maps</string>
+    <string name="enter_the_destination_location">Enter the destination location</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
